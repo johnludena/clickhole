@@ -84,3 +84,14 @@ p {
     width: 90%;
   }
 }
+
+@media (max-width: 480px) {
+  .thumb {
+    display: block;
+    width: 100%;
+  }
+
+  .thumb img {
+    width: 100%;
+  }
+}
